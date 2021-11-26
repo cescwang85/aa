@@ -1,3 +1,4 @@
+## This is Cheng's toy code for roxygen2.
 #' Add together two numbers
 #'
 #' @param x A number.
